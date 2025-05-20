@@ -1,6 +1,4 @@
 # Projects
-<br>
-My name is Abu Bakr
 <!DOCTYPE html>
 <html lang="en">
   <head>
