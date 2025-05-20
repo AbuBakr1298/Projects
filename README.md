@@ -9,6 +9,120 @@ My name is Abu Bakr
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" href="Amazon.CSS" />
     <title>Amazon.com</title>
+    <style>body{ background: linear-gradient(#c1121f,#780000); background-repeat:
+    no-repeat; } #div{ height: 100px; width: 100%px; background-color: rgba(0, 204,
+    255, 0.465); border: 8px solid rgba(98, 0, 255, 0.448); border-radius: 16px; }
+    #text{ text-align: center; color: white; font-size: 35px; } #sis{ font-size:
+    30px; color: orange; } #box0{ color: white; font-size: 24px; } #exe{ font-size:
+    30px; color: orange; } #center{ font-size: 15px; color: whitesmoke; text-align:
+    center; } #left{ font-size: 15px; color: whitesmoke; text-align: left; } #right{
+    font-size: 15px; color: white; text-align: right; } #div2{ height: 120px;
+    background-color: bisque; border: 12px solid orange; border-radius: 24px; } #p2{
+    font-size: 35px; color: black; text-align: center; } #zx{ font-size: 24px;
+    color: rgb(234, 224, 205); font-family: Arial, Helvetica, sans-serif; } #xc{
+    font-size: 24px; color: orange; } #cv{ font-size: 30px; color: white;
+    text-decoration: underline; } #vb{ font-size: 30px; color: white;
+    text-decoration: overline; } #bn{ font-size: 30px; color: white;
+    text-decoration: line-through; } #mm{ height: 122px; background-color: aqua;
+    border: 10px solid red ; border-radius: 15px ; } #aa{ font-size: 40px;
+    font-weight: bolder; text-align: center; } #as{ font-size: 26px; color:rgb(191,
+    255, 0); } #sd{ font-size: 30px; color: rgb(86, 205, 50); } #h1{ font-weight:
+    lighter; color: white; } #h2{ font-weight: normal; color: bisque; } #h3{
+    font-weight: bold; color: beige; } #h4{ font-weight: bolder; color: azure; }
+    #df{ height: 120px; background-color: orange; border: 10px solid red;
+    border-radius: 15px; } #fg{ font-size: 45px; text-align: center; color: rgb(255,
+    255, 255); } #gh{ color: white; font-size: 24px; } #hj{ color: rgb(0, 234, 255);
+    font-size: 30px; } #jk{ color: white; font-size: 24px; text-transform:
+    uppercase; } #kl{ color: white; font-size: 24px; text-transform: lowercase; }
+    #lq{ color: white; font-size: 24px; text-transform: capitalize; } #navbar{
+    font-family: Arial, Helvetica, sans-serif; } #bakr{ color: white; text-decoration:
+    none; border: 1px white transparent; padding: 8px 5px; text-align: center;
+    font-size:18px ; border: 2px white transparent; } #bakr:hover{ border:2px solid
+    white ; } #er{ height: 123px; background-color: brown; border: 8px whitesmoke
+    solid; border-radius: 15px; font-size: 60px; color: white; text-align: center; }
+    #er:hover { border: 10px rgb(141, 0, 0) solid; background-color: aquamarine;
+    color: black; } #qw{ height: 250px; width: 250px; background-color: pink;
+    display: block; margin: 25px; } #qw:hover{ background-color: rgb(0, 139, 23); }
+    #qz{ height:250px; width: 250px; background-color: aqua; display: inline;
+    margin: 25px; } #qz:hover{ background-color:rgb(104, 50, 205) ; } #qx{
+    height:250px; width: 250px; background-color: rgb(140, 255, 0); display:
+    inline-block; margin: 25px; } #qx:hover{ background-color: rgb(255, 0, 255); }
+    #qc{ height:250px; width: 250px; background-color: rgb(255, 0, 0); display:
+    none; } #zz{ font-size: 40px; color: white; font-weight: normal;
+    background-color: rgba(0, 255, 238, 0.361); display: inline-block; } #xx{
+    height:250px; width: 250px; background-color: rgb(255, 0, 0); display:
+    inline-block; } #xx:hover{ visibility: hidden; background-color: bisque; } #box{
+    height: 100px; width: 100%; background-color: red; } #xob{ height: 90%; width:
+    98%; background-color: green; margin-left: 1%; } #box:hover{ background-color:
+    green; } #xob:hover{ background-color: red; } #class1{ height: 130px;
+    background-color: yellowgreen; border: 8px solid white; border-radius: 8px;
+    color: white; font-size: 55px; text-align: center; padding-top: 55px; }
+    #class1:hover{ background-color: yellow; border: 10px solid black;
+    border-radius: 10px; color: black; } #class2{ height: 250px; width: 250px;
+    background-color: lightcoral; border: 2px solid; display: inline-block;
+    position: static; background-image: url(./op.avif); background-size: cover; }
+    #class3{ height: 150px; width: 150px; background-color: lightblue; border: 2px
+    solid; display: inline-block; position: relative; top: 50px; right: 50px;
+    background-image: url(./nature.webp); background-size: cover; } #class4{ height:
+    1px; width: 100%; background-color: yellowgreen; border: 2px solid; display:
+    inline-block; position: absolute; top: 100%; right: 0; } #class5{ height: 1px;
+    width: 100%; background-color: aqua; border: 1px solid; display: inline-block;
+    position: fixed; right: 1px; bottom: 1px; } #class6{ height: 10px; width: 150px;
+    background-color: rgb(0, 81, 255); border: 2px solid; display: inline-block;
+    position: sticky; bottom: 0; left: 100%; } #zzz{ color: white; font-size: 40px;
+    font-weight: normal; } #kill1{ height: 250px; width: 250px; border-left: 2px
+    solid; border-bottom: 2px solid; border-top: 2px solid; border-top-left-radius:
+    8px; border-bottom-left-radius: 8px; background-image: url(./kill1.avif);
+    background-size: cover; display: inline-block; } #kill1:hover{ background-image:
+    url(./kill.avif); background-size: cover; } #kill2{ height: 150px; width: 150px;
+    border: 2px solid; border-radius: 8px; background-image: url(./Dave.avif);
+    background-size: cover; display: inline-block; position: relative; top: 50px;
+    right: 80px; z-index: 2; } #kill2:hover{ background-image: url(./istk.jpg);
+    background-size: cover; } #kill3{ height: 250px; width: 250px; border: 2px
+    solid; border-top-right-radius: 8px; border-bottom-right-radius: 8px;
+    background-image: url(./sam.avif); background-size: cover; display:
+    inline-block; position: relative; right: 162px; } #kill3:hover{
+    background-image: url(./signa.jpg); background-size: cover; } #kill{ height:
+    150px; background-image: url(./asas.jpg); background-size: cover; border: 5px
+    solid white; border-radius: 15px; font-size: 70px; text-align: center; color:
+    blue; } #kill:hover{ height: 160px; border: 10px solid black; border-radius:
+    30px; color: rgb(0, 247, 255); background-image :url(./bro.webp);
+    background-size: cover; } #kill4{ text-align: center; font-size: 60px; color:
+    white; height: 150px; background-image: url(./lea.webp); background-size: cover;
+    border: 10px solid rgb(0, 39, 0); color: greenyellow; border-radius: 24px;
+    display: flex; flex-direction: column-reverse; justify-content: center; }
+    #kill4:hover{ background-image: url(./teg.webp); background-size: cover; border:
+    15px aqua solid; border-radius: 30px; color:aquamarine; } #kill5{ height: 450px;
+    width: 350px; border: 2px solid rgb(255, 255, 255); display: inline-block;
+    border-radius: 10px; /* display: flex;*/ /* flex-direction:row;*/ /*
+    justify-content: center;*/ /* flex-wrap: wrap;*/ /* align-items: center;*/ /*
+    align-content: center;*/ display:flex; flex-direction: row; justify-content:
+    center; flex-wrap: wrap; align-items: center; align-content: center; } #lll{
+    text-align: center; display: flex; justify-content: center; } #kill6{ height:
+    50px; width: 100px; background-image: url(box11.avif); background-size: cover;
+    display: inline-block; border: 2px solid black; border-radius: 10px; }
+    #kill6:hover{ background-image: url(./box1.avif); background-size: cover; }
+    #kill7{ height: 200px; width: 100px; background-image: url(./box2.avif);
+    background-size: cover; display: inline-block; border: 2px solid black;
+    border-radius: 10px; flex-shrink: 1; } #kill7:hover{ background-image:
+    url(./box23.avif); background-size: cover; } #kill8{ height: 50px; width: 100px;
+    background-image: url(./box3.avif); background-size: cover; display:
+    inline-block; border: 2px solid black; border-radius: 10px; flex-shrink: 1; }
+    #kill8:hover{ background-image: url(box33.avif); background-size: cover; }
+    #kill9{ height: 150px; width: 50px; background-image: url(./box4.avif);
+    background-size: cover; display: inline-block; border: 2px solid black;
+    border-radius: 10px; flex-shrink: 1; } #kill9:hover{ background-image:
+    url(./box44.webp); background-size: cover; } #kill0{ height: 150px; width: 50px;
+    background-image: url(./box0.avif); background-size: cover; display:
+    inline-block; border: 2px solid black; border-radius: 10px; } #kill0:hover{
+    background-image: url(./box00.avif); background-size: cover; }
+    ul{background-color: pink;display: flex;justify-content: space-evenly;}a{
+    text-decoration: none;color:white;} li{list-style-type
+    : none;background-color: #780000;}#outer{height: 500px;width: 100vw;background-color: 
+    rgba(0, 0, 255, 0.381);display: flex;align-items: center;justify-content: center;}
+    #inear{height: 200px;width: 200px;background-color: aqua;}#main{display: flex;
+    justify-content: center;}@media (min-width:500px)and (max-width:600px){#outer{background-color: rgb(255, 204, 0);}}
+</style>
     <link
       rel="stylesheet"
       href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css"
